@@ -1,0 +1,510 @@
+[{
+  "_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "name": "LOUD",
+  "pais": "Brasil",
+  "patrocinadores": [
+    {
+      "name": "Itaú"
+    },
+    {
+      "name": "Mentos"
+    },
+    {
+      "name": "Samsung"
+    },
+    {
+      "name": "TIM Brasil"
+    },
+    {
+      "name": "O Boticário"
+    },
+    {
+      "name": "Snickers"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d82459d1c64583aadcabc"
+  },
+  "name": "Team Liquid",
+  "pais": "Brasil",
+  "patrocinadores": [
+    {
+      "name": "alienware"
+    },
+    {
+      "name": "coinbase"
+    },
+    {
+      "name": "Honda"
+    },
+    {
+      "name": "imc"
+    },
+    {
+      "name": "Monster"
+    },
+    {
+      "name": "sap"
+    },
+    {
+      "name": "secretlab"
+    },
+    {
+      "name": "sui"
+    },
+    {
+      "name": "thorne"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d832d9d1c64583aadcabd"
+  },
+  "name": "fanatic (FNC)",
+  "pais": "Estado Unidos",
+  "patrocinadores": [
+    {
+      "name": "AMD"
+    },
+    {
+      "name": "Fnatic Gear"
+    },
+    {
+      "name": "GG.Bet"
+    },
+    {
+      "name": "eGG"
+    },
+    {
+      "name": "MSI"
+    },
+    {
+      "name": "Quersus"
+    },
+    {
+      "name": "Newzoo"
+    },
+    {
+      "name": "Strafe"
+    },
+    {
+      "name": "Twitch"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d83fb9d1c64583aadcabe"
+  },
+  "name": "kruesports",
+  "pais": "Argentina",
+  "patrocinadores": [
+    {
+      "name": "Visa"
+    },
+    {
+      "name": "Disney+"
+    },
+    {
+      "name": "paxassistance"
+    },
+    {
+      "name": "Puma"
+    },
+    {
+      "name": "fitchin"
+    },
+    {
+      "name": "logitech"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d845d9d1c64583aadcabf"
+  },
+  "name": "Paper Rex",
+  "pais": "Singapore",
+  "patrocinadores": [
+    {
+      "name": "you100"
+    },
+    {
+      "name": "pulsar"
+    },
+    {
+      "name": "hyper"
+    },
+    {
+      "name": "dreamcore"
+    },
+    {
+      "name": "zowei"
+    },
+    {
+      "name": "secretlab"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d8ae09d1c64583aadcac0"
+  },
+  "name": "Edward Gaming",
+  "pais": "China",
+  "patrocinadores": [
+    {
+      "name": "Hycan"
+    },
+    {
+      "name": "Huya"
+    },
+    {
+      "name": "Red Bull"
+    },
+    {
+      "name": "Exxon Mobil Super"
+    },
+    {
+      "name": "Intel"
+    },
+    {
+      "name": "Razer"
+    },
+    {
+      "name": "TCL"
+    },
+    {
+      "name": "Bixin"
+    },
+    {
+      "name": "iGame by Colorful"
+    },
+    {
+      "name": "iQOO"
+    },
+    {
+      "name": "luckin coffee"
+    },
+    {
+      "name": "Coca-Cola"
+    },
+    {
+      "name": "luckin coffee"
+    },
+    {
+      "name": "Yu'e Bao by Alipay"
+    },
+    {
+      "name": "yebaojiasu"
+    },
+    {
+      "name": "DIOR"
+    },
+    {
+      "name": "Denglao Food"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d8b6e9d1c64583aadcac2"
+  },
+  "name": "FunPlus Phoenix",
+  "pais": "China",
+  "patrocinadores": [
+    {
+      "name": "FunPlus"
+    },
+    {
+      "name": "BMW"
+    },
+    {
+      "name": "OPPO"
+    },
+    {
+      "name": "PUMA"
+    },
+    {
+      "name": "Huya"
+    },
+    {
+      "name": "Tabula Rasa"
+    },
+    {
+      "name": "Yuku Grilled Fish"
+    },
+    {
+      "name": "Herman Miller"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d8bdc9d1c64583aadcac3"
+  },
+  "name": "DRX",
+  "pais": "Corea del sur",
+  "patrocinadores": [
+    {
+      "name": "Red bull"
+    },
+    {
+      "name": "Hyper"
+    },
+    {
+      "name": "Porsche"
+    },
+    {
+      "name": "huons"
+    },
+    {
+      "name": "logitech"
+    },
+    {
+      "name": "soldoc+"
+    },
+    {
+      "name": "sizeof"
+    },
+    {
+      "name": "afreeca"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d91749d1c64583aadcac4"
+  },
+  "name": "ZETA DIVISION",
+  "pais": "Japon",
+  "patrocinadores": [
+    {
+      "name": "cupnoodle"
+    },
+    {
+      "name": "jcb"
+    },
+    {
+      "name": "pc-koubou"
+    },
+    {
+      "name": "zenaim"
+    },
+    {
+      "name": "redbull"
+    },
+    {
+      "name": "zowie"
+    },
+    {
+      "name": "hermanmiller"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d95e69d1c64583aadcac5"
+  },
+  "name": "Evil Geniuses",
+  "pais": "Estados Unidos",
+  "patrocinadores": [
+    {
+      "name": "HEWLETT PACKARD ENTERPRISE"
+    },
+    {
+      "name": "GLOBAL CITIZEN"
+    },
+    {
+      "name": "PEAK6"
+    },
+    {
+      "name": "WOLVERHAMPTON WANDERERS"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d96609d1c64583aadcac6"
+  },
+  "name": "FUT Esports",
+  "pais": "China",
+  "patrocinadores": [
+    {
+      "name": "Samsung"
+    },
+    {
+      "name": "Redbull"
+    },
+    {
+      "name": "Adidas"
+    },
+    {
+      "name": "FreeZone"
+    },
+    {
+      "name": "KFC"
+    },
+    {
+      "name": "logitech"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d96dc9d1c64583aadcac7"
+  },
+  "name": "Giants Gaming",
+  "pais": "España",
+  "patrocinadores": [
+    {
+      "name": "Burger King"
+    },
+    {
+      "name": "KitKat"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d97809d1c64583aadcac8"
+  },
+  "name": "T1",
+  "pais": "Corea del sur",
+  "patrocinadores": [
+    {
+      "name": "Samsung Odyssey Neo"
+    },
+    {
+      "name": "Red Bull"
+    },
+    {
+      "name": "AfreecaTV"
+    },
+    {
+      "name": "Nike"
+    },
+    {
+      "name": "GOALSTUDIO"
+    },
+    {
+      "name": "Mercedes-Benz"
+    },
+    {
+      "name": "Hana Bank"
+    },
+    {
+      "name": "SteelSeries"
+    },
+    {
+      "name": "Ralph Lauren"
+    },
+    {
+      "name": "Klevv"
+    },
+    {
+      "name": "Pulsar"
+    },
+    {
+      "name": "HSBC"
+    },
+    {
+      "name": "Secretlab"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d99de9d1c64583aadcaca"
+  },
+  "name": "Natus Vincere",
+  "pais": "Ucrania",
+  "patrocinadores": [
+    {
+      "name": "Puma"
+    },
+    {
+      "name": "Monster Energy"
+    },
+    {
+      "name": "Logitech"
+    },
+    {
+      "name": "Nissan"
+    },
+    {
+      "name": "Philips"
+    },
+    {
+      "name": "RAID: Shadow Legends"
+    },
+    {
+      "name": "AndaSeat"
+    },
+    {
+      "name": "GG.BET"
+    },
+    {
+      "name": "BYBIT"
+    },
+    {
+      "name": "CSMONEY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d9b659d1c64583aadcacb"
+  },
+  "name": "NRG Esports",
+  "pais": "Estados unidos",
+  "patrocinadores": [
+    {
+      "name": "Rockstar Energy"
+    },
+    {
+      "name": "ASUS Republic of Gamers"
+    },
+    {
+      "name": "Spectrum"
+    },
+    {
+      "name": "Hot Pockets"
+    },
+    {
+      "name": "Guardia Nacional del Ejército"
+    },
+    {
+      "name": "DX Racer"
+    },
+    {
+      "name": "Bud Light"
+    },
+    {
+      "name": "CDW"
+    },
+    {
+      "name": "YoungLA"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663d9bfe9d1c64583aadcacd"
+  },
+  "name": "Bilibili Gaming",
+  "pais": "China",
+  "patrocinadores": [
+    {
+      "name": "PingAn Bank"
+    },
+    {
+      "name": "Bilibili"
+    }
+  ]
+}]

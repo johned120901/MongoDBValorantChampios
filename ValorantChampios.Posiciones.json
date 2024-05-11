@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e88"
+  },
+  "equipo_id": {
+    "$oid": "663d95e69d1c64583aadcac5"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e77"
+  },
+  "posicion": "1.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e89"
+  },
+  "equipo_id": {
+    "$oid": "663d845d9d1c64583aadcabf"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e78"
+  },
+  "posicion": "2.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e8a"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e79"
+  },
+  "posicion": "3.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e8b"
+  },
+  "equipo_id": {
+    "$oid": "663d832d9d1c64583aadcabd"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e7a"
+  },
+  "posicion": "4.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e8c"
+  },
+  "equipo_id": {
+    "$oid": "663d8bdc9d1c64583aadcac3"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e7b"
+  },
+  "posicion": "5.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e8d"
+  },
+  "equipo_id": {
+    "$oid": "663d8ae09d1c64583aadcac0"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e7b"
+  },
+  "posicion": "6.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e8e"
+  },
+  "equipo_id": {
+    "$oid": "663d9bfe9d1c64583aadcacd"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e7c"
+  },
+  "posicion": "7.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e8f"
+  },
+  "equipo_id": {
+    "$oid": "663d96609d1c64583aadcac6"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e7c"
+  },
+  "posicion": "8.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e90"
+  },
+  "equipo_id": {
+    "$oid": "663d99de9d1c64583aadcaca"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e7d"
+  },
+  "posicion": "9.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e91"
+  },
+  "equipo_id": {
+    "$oid": "663d97809d1c64583aadcac8"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e7d"
+  },
+  "posicion": "10.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e92"
+  },
+  "equipo_id": {
+    "$oid": "663d9b659d1c64583aadcacb"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e7d"
+  },
+  "posicion": "11.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e93"
+  },
+  "equipo_id": {
+    "$oid": "663d96dc9d1c64583aadcac7"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e7d"
+  },
+  "posicion": "12.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e94"
+  },
+  "equipo_id": {
+    "$oid": "663d83fb9d1c64583aadcabe"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e7e"
+  },
+  "posicion": "13.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e95"
+  },
+  "equipo_id": {
+    "$oid": "663d8b6e9d1c64583aadcac2"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e7e"
+  },
+  "posicion": "14.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e96"
+  },
+  "equipo_id": {
+    "$oid": "663d91749d1c64583aadcac4"
+  },
+  "premios_id": {
+    "$oid": "663fd51395de8e8ef2137e7e"
+  },
+  "posicion": "15.°"
+},
+{
+  "_id": {
+    "$oid": "663fdad795de8e8ef2137e97"
+  },
+  "equipo_id": {
+    "$oid": "663fd51395de8e8ef2137e7e"
+  },
+  "premios_id": {
+    "$oid": "663d83fb9d1c64583aadcabe"
+  },
+  "posicion": "16.°"
+}]

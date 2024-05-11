@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "663fd51395de8e8ef2137e77"
+  },
+  "monto": 1000000,
+  "moneda": "US"
+},
+{
+  "_id": {
+    "$oid": "663fd51395de8e8ef2137e78"
+  },
+  "monto": 400000,
+  "moneda": "US"
+},
+{
+  "_id": {
+    "$oid": "663fd51395de8e8ef2137e79"
+  },
+  "monto": 250000,
+  "moneda": "US"
+},
+{
+  "_id": {
+    "$oid": "663fd51395de8e8ef2137e7a"
+  },
+  "monto": 130000,
+  "moneda": "US"
+},
+{
+  "_id": {
+    "$oid": "663fd51395de8e8ef2137e7b"
+  },
+  "monto": 85000,
+  "moneda": "US"
+},
+{
+  "_id": {
+    "$oid": "663fd51395de8e8ef2137e7c"
+  },
+  "monto": 50000,
+  "moneda": "US"
+},
+{
+  "_id": {
+    "$oid": "663fd51395de8e8ef2137e7d"
+  },
+  "monto": 30000,
+  "moneda": "US"
+},
+{
+  "_id": {
+    "$oid": "663fd51395de8e8ef2137e7e"
+  },
+  "monto": 20000,
+  "moneda": "US"
+}]

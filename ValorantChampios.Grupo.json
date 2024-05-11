@@ -1,0 +1,254 @@
+[{
+  "_id": {
+    "$oid": "663ef6deffdfdf4206071f9b"
+  },
+  "grupo": "A",
+  "participantes": [
+    {
+      "equipo_id": {
+        "$oid": "663d845d9d1c64583aadcabf"
+      },
+      "clasifica": true
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d83fb9d1c64583aadcabe"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d8ae09d1c64583aadcac0"
+      },
+      "clasifica": true
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d96dc9d1c64583aadcac7"
+      },
+      "clasifica": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663ef87bffdfdf4206071f9d"
+  },
+  "grupo": "B",
+  "participantes": [
+    {
+      "equipo_id": {
+        "$oid": "663d95e69d1c64583aadcac5"
+      },
+      "clasifica": true
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d8b6e9d1c64583aadcac2"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d96609d1c64583aadcac6"
+      },
+      "clasifica": true
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d97809d1c64583aadcac8"
+      },
+      "clasifica": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663ef8f1ffdfdf4206071f9f"
+  },
+  "grupo": "C",
+  "participantes": [
+    {
+      "equipo_id": {
+        "$oid": "663d832d9d1c64583aadcabd"
+      },
+      "clasifica": true
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d91749d1c64583aadcac4"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d9bfe9d1c64583aadcacd"
+      },
+      "clasifica": true
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d9b659d1c64583aadcacb"
+      },
+      "clasifica": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663ef966ffdfdf4206071fa1"
+  },
+  "grupo": "D",
+  "participantes": [
+    {
+      "equipo_id": {
+        "$oid": "663d8bdc9d1c64583aadcac3"
+      },
+      "clasifica": true
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d99de9d1c64583aadcaca"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d7efc9d1c64583aadcabb"
+      },
+      "clasifica": true
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d82459d1c64583aadcabc"
+      },
+      "clasifica": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663efaa5ffdfdf4206071fa3"
+  },
+  "grupo": "Bracket superior",
+  "participantes": [
+    {
+      "equipo_id": {
+        "$oid": "663d832d9d1c64583aadcabd"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d7efc9d1c64583aadcabb"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d845d9d1c64583aadcabf"
+      },
+      "clasifica": true
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d96609d1c64583aadcac6"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d8bdc9d1c64583aadcac3"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d9bfe9d1c64583aadcacd"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d95e69d1c64583aadcac5"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d8ae09d1c64583aadcac0"
+      },
+      "clasifica": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663efdd3ffdfdf4206071fa5"
+  },
+  "grupo": "Bracket inferior",
+  "participantes": [
+    {
+      "equipo_id": {
+        "$oid": "663d832d9d1c64583aadcabd"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d96609d1c64583aadcac6"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d9bfe9d1c64583aadcacd"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d8ae09d1c64583aadcac0"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d8bdc9d1c64583aadcac3"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d7efc9d1c64583aadcabb"
+      },
+      "clasifica": false
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d95e69d1c64583aadcac5"
+      },
+      "clasifica": true
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663efe47ffdfdf4206071fa7"
+  },
+  "grupo": "Gran Final",
+  "participantes": [
+    {
+      "equipo_id": {
+        "$oid": "663d95e69d1c64583aadcac5"
+      },
+      "clasifica": true
+    },
+    {
+      "equipo_id": {
+        "$oid": "663d845d9d1c64583aadcabf"
+      },
+      "clasifica": false
+    }
+  ]
+}]

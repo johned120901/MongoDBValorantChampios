@@ -1,0 +1,804 @@
+[{
+  "_id": {
+    "$oid": "663ecbd1ffdfdf4206071f21"
+  },
+  "nombre": "Ayaz Akhmetshin",
+  "username": "nAts",
+  "rol": "Jugador",
+  "nacionalidad": "Rusia",
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  }
+},
+{
+  "_id": {
+    "$oid": "663ecc3affdfdf4206071f22"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Georgio Sanassy",
+  "username": "Keiko",
+  "rol": "Jugador",
+  "nacionalidad": "Reino Unido"
+},
+{
+  "_id": {
+    "$oid": "663ecc61ffdfdf4206071f23"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "James Orfila",
+  "username": "Mistic",
+  "rol": "Jugador",
+  "nacionalidad": "Reino Unido"
+},
+{
+  "_id": {
+    "$oid": "663eccc2ffdfdf4206071f24"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Enzo Mestari",
+  "username": "Enzo",
+  "rol": "Jugador",
+  "nacionalidad": "Francia"
+},
+{
+  "_id": {
+    "$oid": "663ecd0dffdfdf4206071f25"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Elias Olkkonen",
+  "username": "Jamppi",
+  "rol": "Jugador",
+  "nacionalidad": "Finlandia"
+},
+{
+  "_id": {
+    "$oid": "663ecd3cffdfdf4206071f26"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Eamon Drea",
+  "username": "cauzed",
+  "rol": "Manager",
+  "nacionalidad": "Reino Unido"
+},
+{
+  "_id": {
+    "$oid": "663ecd63ffdfdf4206071f27"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Jake Lloyd",
+  "username": "Bacon9",
+  "rol": "Analyst",
+  "nacionalidad": "Reino Unido"
+},
+{
+  "_id": {
+    "$oid": "663ecd8affdfdf4206071f28"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Emil Sandgren",
+  "username": "eMil",
+  "rol": "Coach",
+  "nacionalidad": "Suecia"
+},
+{
+  "_id": {
+    "$oid": "663ecdbdffdfdf4206071f29"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Tanner Curtis",
+  "username": "7Teen",
+  "rol": "Performance Coach",
+  "nacionalidad": "Estados Unidos"
+},
+{
+  "_id": {
+    "$oid": "663ecf83ffdfdf4206071f31"
+  },
+  "equipo_id": {
+    "$oid": "663d832d9d1c64583aadcabd"
+  },
+  "nombre": "Jake Howlett",
+  "username": "Boaster",
+  "rol": "Jugador",
+  "nacionalidad": "Reino Unido"
+},
+{
+  "_id": {
+    "$oid": "663ecfb6ffdfdf4206071f32"
+  },
+  "equipo_id": {
+    "$oid": "663d832d9d1c64583aadcabd"
+  },
+  "nombre": "Nikita Sirmitev",
+  "username": "Derke",
+  "rol": "Jugador",
+  "nacionalidad": "Finlandia"
+},
+{
+  "_id": {
+    "$oid": "663ecffeffdfdf4206071f33"
+  },
+  "equipo_id": {
+    "$oid": "663d832d9d1c64583aadcabd"
+  },
+  "nombre": "Emir Ali Beder",
+  "username": "Alfajer",
+  "rol": "Jugador",
+  "nacionalidad": "Turquia"
+},
+{
+  "_id": {
+    "$oid": "663ed025ffdfdf4206071f34"
+  },
+  "equipo_id": {
+    "$oid": "663d832d9d1c64583aadcabd"
+  },
+  "nombre": "Leo Jannesson",
+  "username": "Leo",
+  "rol": "Jugador",
+  "nacionalidad": "Suecia"
+},
+{
+  "_id": {
+    "$oid": "663ed04affdfdf4206071f35"
+  },
+  "equipo_id": {
+    "$oid": "663d832d9d1c64583aadcabd"
+  },
+  "nombre": "Timofey Khromov",
+  "username": "Chronicle",
+  "rol": "Jugador",
+  "nacionalidad": "Rusia"
+},
+{
+  "_id": {
+    "$oid": "663ed07cffdfdf4206071f36"
+  },
+  "equipo_id": {
+    "$oid": "663d832d9d1c64583aadcabd"
+  },
+  "nombre": "Colin Johnson",
+  "username": "CoJo",
+  "rol": "Manager",
+  "nacionalidad": "Estados Unidos"
+},
+{
+  "_id": {
+    "$oid": "663ed0eaffdfdf4206071f37"
+  },
+  "equipo_id": {
+    "$oid": "663d832d9d1c64583aadcabd"
+  },
+  "nombre": "Alexey Lunskov",
+  "username": "slk",
+  "rol": "Assistant Coach",
+  "nacionalidad": "Rusia"
+},
+{
+  "_id": {
+    "$oid": "663ed4f3ffdfdf4206071f3d"
+  },
+  "equipo_id": {
+    "$oid": "663d83fb9d1c64583aadcabe"
+  },
+  "nombre": "Roberto Rivas",
+  "username": "Mazino",
+  "rol": "Jugador",
+  "nacionalidad": "Chileno"
+},
+{
+  "_id": {
+    "$oid": "663ed515ffdfdf4206071f3e"
+  },
+  "equipo_id": {
+    "$oid": "663d83fb9d1c64583aadcabe"
+  },
+  "nombre": "Nicolas Martin",
+  "username": "Klaus",
+  "rol": "Jugador",
+  "nacionalidad": "Argentino"
+},
+{
+  "_id": {
+    "$oid": "663ed539ffdfdf4206071f3f"
+  },
+  "equipo_id": {
+    "$oid": "663d83fb9d1c64583aadcabe"
+  },
+  "nombre": "Juan Lopez",
+  "username": "NagZet",
+  "rol": "Jugador",
+  "nacionalidad": "Chileno"
+},
+{
+  "_id": {
+    "$oid": "663ed5b9ffdfdf4206071f40"
+  },
+  "equipo_id": {
+    "$oid": "663d83fb9d1c64583aadcabe"
+  },
+  "nombre": "Joaquin Espinoza",
+  "username": "delz1k",
+  "rol": "Jugador",
+  "nacionalidad": "Chileno"
+},
+{
+  "_id": {
+    "$oid": "663ed604ffdfdf4206071f41"
+  },
+  "equipo_id": {
+    "$oid": "663d83fb9d1c64583aadcabe"
+  },
+  "nombre": "Angelo Mori",
+  "username": "Keznit",
+  "rol": "Jugador",
+  "nacionalidad": "Chileno"
+},
+{
+  "_id": {
+    "$oid": "663ed621ffdfdf4206071f42"
+  },
+  "equipo_id": {
+    "$oid": "663d83fb9d1c64583aadcabe"
+  },
+  "nombre": "Martin Bourre",
+  "username": "Betony",
+  "rol": "Coach",
+  "nacionalidad": "Argentino"
+},
+{
+  "_id": {
+    "$oid": "663edc18ffdfdf4206071f4a"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Gabriel Lima",
+  "username": "qck",
+  "rol": "Jugador",
+  "nacionalidad": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "663edc34ffdfdf4206071f4b"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Felipe de Loyola",
+  "username": "Less",
+  "rol": "Jugador",
+  "nacionalidad": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "663edc50ffdfdf4206071f4c"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Matias Delipetro",
+  "username": "Saadhak",
+  "rol": "Jugador",
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "663edc6effdfdf4206071f4d"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Cauan Pereira",
+  "username": "cauanzin",
+  "rol": "Jugador",
+  "nacionalidad": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "663edc97ffdfdf4206071f4e"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Arthur Viera",
+  "username": "tuyz",
+  "rol": "Jugador",
+  "nacionalidad": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "663edcb6ffdfdf4206071f4f"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Danny Montaner",
+  "username": "fRoD",
+  "rol": "Head Coach",
+  "nacionalidad": "Estados Unidos"
+},
+{
+  "_id": {
+    "$oid": "663edce7ffdfdf4206071f50"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Jordan Nunes",
+  "username": "stkJ",
+  "rol": "Assistant Coach",
+  "nacionalidad": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "663edd02ffdfdf4206071f51"
+  },
+  "equipo_id": {
+    "$oid": "663d7efc9d1c64583aadcabb"
+  },
+  "nombre": "Marcos Vinicius",
+  "username": "Markin",
+  "rol": "Analyst",
+  "nacionalidad": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "663edf9effdfdf4206071f57"
+  },
+  "equipo_id": {
+    "$oid": "663d845d9d1c64583aadcabf"
+  },
+  "nombre": "Wang Jung Jie",
+  "username": "Jinggg",
+  "rol": "Jugador",
+  "nacionalidad": "Singapore"
+},
+{
+  "_id": {
+    "$oid": "663ee2e9ffdfdf4206071f58"
+  },
+  "equipo_id": {
+    "$oid": "663d845d9d1c64583aadcabf"
+  },
+  "nombre": "Aaron Leonhart",
+  "username": "mindfreak",
+  "rol": "Jugador",
+  "nacionalidad": "Indonesia"
+},
+{
+  "_id": {
+    "$oid": "663ee313ffdfdf4206071f59"
+  },
+  "equipo_id": {
+    "$oid": "663d845d9d1c64583aadcabf"
+  },
+  "nombre": "Jason Susanto",
+  "username": "f0rsakeN",
+  "rol": "Jugador",
+  "nacionalidad": "Indonesia"
+},
+{
+  "_id": {
+    "$oid": "663ee336ffdfdf4206071f5a"
+  },
+  "equipo_id": {
+    "$oid": "663d845d9d1c64583aadcabf"
+  },
+  "nombre": "Khalish Rusyaidee",
+  "username": "d4v41",
+  "rol": "Jugador",
+  "nacionalidad": "Malaysia"
+},
+{
+  "_id": {
+    "$oid": "663ee360ffdfdf4206071f5b"
+  },
+  "equipo_id": {
+    "$oid": "663d845d9d1c64583aadcabf"
+  },
+  "nombre": "Ilya Petrov",
+  "username": "something",
+  "rol": "Jugador",
+  "nacionalidad": "Rusia"
+},
+{
+  "_id": {
+    "$oid": "663ee387ffdfdf4206071f5c"
+  },
+  "equipo_id": {
+    "$oid": "663d845d9d1c64583aadcabf"
+  },
+  "nombre": "Alex Salle",
+  "username": "alecks",
+  "rol": "Coach",
+  "nacionalidad": "Francia"
+},
+{
+  "_id": {
+    "$oid": "663ee6dcffdfdf4206071f5f"
+  },
+  "equipo_id": {
+    "$oid": "663d8ae09d1c64583aadcac0"
+  },
+  "nombre": "Hao Dong Guo",
+  "username": "Haodong",
+  "rol": "Jugador",
+  "nacionalidad": "China"
+},
+{
+  "_id": {
+    "$oid": "663ee723ffdfdf4206071f60"
+  },
+  "equipo_id": {
+    "$oid": "663d8ae09d1c64583aadcac0"
+  },
+  "nombre": "Shun Zhi Wan",
+  "username": "CHICHOO",
+  "rol": "Jugador",
+  "nacionalidad": "China"
+},
+{
+  "_id": {
+    "$oid": "663ee741ffdfdf4206071f61"
+  },
+  "equipo_id": {
+    "$oid": "663d8ae09d1c64583aadcac0"
+  },
+  "nombre": "Zhang Zhao",
+  "username": "Smoggy",
+  "rol": "Jugador",
+  "nacionalidad": "China"
+},
+{
+  "_id": {
+    "$oid": "663ee84effdfdf4206071f63"
+  },
+  "equipo_id": {
+    "$oid": "663d8ae09d1c64583aadcac0"
+  },
+  "nombre": "Wang Senxu",
+  "username": "nobody",
+  "rol": "Jugador",
+  "nacionalidad": "China"
+},
+{
+  "_id": {
+    "$oid": "663ee86effdfdf4206071f65"
+  },
+  "equipo_id": {
+    "$oid": "663d8ae09d1c64583aadcac0"
+  },
+  "nombre": "Zheng Youngkang",
+  "username": "ZmjjKK",
+  "rol": "Jugador",
+  "nacionalidad": "China"
+},
+{
+  "_id": {
+    "$oid": "663eea1affdfdf4206071f6b"
+  },
+  "equipo_id": {
+    "$oid": "663d8b6e9d1c64583aadcac2"
+  },
+  "nombre": "You Hao Liang",
+  "username": "Lysoar",
+  "rol": "Jugador",
+  "nacionalidad": "China"
+},
+{
+  "_id": {
+    "$oid": "663eea1affdfdf4206071f6c"
+  },
+  "equipo_id": {
+    "$oid": "663d8b6e9d1c64583aadcac2"
+  },
+  "nombre": "Kale Dunne",
+  "username": "autumn",
+  "rol": "Jugador",
+  "nacionalidad": "Australia"
+},
+{
+  "_id": {
+    "$oid": "663eea1affdfdf4206071f6d"
+  },
+  "equipo_id": {
+    "$oid": "663d8b6e9d1c64583aadcac2"
+  },
+  "nombre": "Zhang Yang",
+  "username": "AAAAY",
+  "rol": "Jugador",
+  "nacionalidad": "China"
+},
+{
+  "_id": {
+    "$oid": "663eea1affdfdf4206071f6e"
+  },
+  "equipo_id": {
+    "$oid": "663d8b6e9d1c64583aadcac2"
+  },
+  "nombre": "Zhang Bolin",
+  "username": "BerLIN",
+  "rol": "Jugador",
+  "nacionalidad": "Taiwan"
+},
+{
+  "_id": {
+    "$oid": "663eeaa8ffdfdf4206071f70"
+  },
+  "equipo_id": {
+    "$oid": "663d8b6e9d1c64583aadcac2"
+  },
+  "nombre": "Dong Hao Qu",
+  "username": "Life",
+  "rol": "Jugador",
+  "nacionalidad": "China"
+},
+{
+  "_id": {
+    "$oid": "663eeaa8ffdfdf4206071f71"
+  },
+  "equipo_id": {
+    "$oid": "663d8b6e9d1c64583aadcac2"
+  },
+  "nombre": "Li Xynyu",
+  "username": "billyo",
+  "rol": "Coach",
+  "nacionalidad": "China"
+},
+{
+  "_id": {
+    "$oid": "663eeaa8ffdfdf4206071f72"
+  },
+  "equipo_id": {
+    "$oid": "663d8b6e9d1c64583aadcac2"
+  },
+  "nombre": "Deng Senqiao",
+  "username": "NaThanD",
+  "rol": "Coach",
+  "nacionalidad": "China"
+},
+{
+  "_id": {
+    "$oid": "663eeaa8ffdfdf4206071f73"
+  },
+  "equipo_id": {
+    "$oid": "663d8b6e9d1c64583aadcac2"
+  },
+  "nombre": "Guan Haoran",
+  "username": "9hr",
+  "rol": "Manager",
+  "nacionalidad": "China"
+},
+{
+  "_id": {
+    "$oid": "663eece7ffdfdf4206071f77"
+  },
+  "equipo_id": {
+    "$oid": "663d8bdc9d1c64583aadcac3"
+  },
+  "nombre": "Kang Ha-bin",
+  "username": "BeYn",
+  "rol": "Jugador",
+  "nacionalidad": "Corea del sur"
+},
+{
+  "_id": {
+    "$oid": "663eece7ffdfdf4206071f78"
+  },
+  "equipo_id": {
+    "$oid": "663d8bdc9d1c64583aadcac3"
+  },
+  "nombre": "Kim Gu-taek",
+  "username": "stax",
+  "rol": "Jugador",
+  "nacionalidad": "Corea del sur"
+},
+{
+  "_id": {
+    "$oid": "663eece7ffdfdf4206071f79"
+  },
+  "equipo_id": {
+    "$oid": "663d8bdc9d1c64583aadcac3"
+  },
+  "nombre": "Jung Jae-sung",
+  "username": "Foxy9",
+  "rol": "Jugador",
+  "nacionalidad": "Corea del sur"
+},
+{
+  "_id": {
+    "$oid": "663eece7ffdfdf4206071f7a"
+  },
+  "equipo_id": {
+    "$oid": "663d8bdc9d1c64583aadcac3"
+  },
+  "nombre": "",
+  "username": "Flashback",
+  "rol": "Jugador",
+  "nacionalidad": "Corea del sur"
+},
+{
+  "_id": {
+    "$oid": "663eece7ffdfdf4206071f7b"
+  },
+  "equipo_id": {
+    "$oid": "663d8bdc9d1c64583aadcac3"
+  },
+  "nombre": "Myeongkwan Kim",
+  "username": "Mako",
+  "rol": "Jugador",
+  "nacionalidad": "Corea del sur"
+},
+{
+  "_id": {
+    "$oid": "663eece7ffdfdf4206071f7c"
+  },
+  "equipo_id": {
+    "$oid": "663d8bdc9d1c64583aadcac3"
+  },
+  "nombre": "Yu Byung-chul",
+  "username": "BuZz",
+  "rol": "Jugador",
+  "nacionalidad": "Corea del sur"
+},
+{
+  "_id": {
+    "$oid": "663eece7ffdfdf4206071f7d"
+  },
+  "equipo_id": {
+    "$oid": "663d8bdc9d1c64583aadcac3"
+  },
+  "nombre": "Kwon Soon-woo",
+  "username": "Argency",
+  "rol": "Coach",
+  "nacionalidad": "Corea del sur"
+},
+{
+  "_id": {
+    "$oid": "663eece7ffdfdf4206071f7e"
+  },
+  "equipo_id": {
+    "$oid": "663d8bdc9d1c64583aadcac3"
+  },
+  "nombre": "Kim Min-soo",
+  "username": "glow",
+  "rol": "Coach",
+  "nacionalidad": "Corea del sur"
+},
+{
+  "_id": {
+    "$oid": "663eece7ffdfdf4206071f7f"
+  },
+  "equipo_id": {
+    "$oid": "663d8bdc9d1c64583aadcac3"
+  },
+  "nombre": "Pyeon Seon-ho",
+  "username": "termi",
+  "rol": "Head Coach",
+  "nacionalidad": "Corea del sur"
+},
+{
+  "_id": {
+    "$oid": "663eeee0ffdfdf4206071f87"
+  },
+  "equipo_id": {
+    "$oid": "663d91749d1c64583aadcac4"
+  },
+  "nombre": "Yuma Hisamoto",
+  "username": "Dep",
+  "rol": "Jugador",
+  "nacionalidad": "Japon"
+},
+{
+  "_id": {
+    "$oid": "663eeee0ffdfdf4206071f88"
+  },
+  "equipo_id": {
+    "$oid": "663d91749d1c64583aadcac4"
+  },
+  "nombre": "Hiroki Yanai",
+  "username": "hiroronn",
+  "rol": "Jugador",
+  "nacionalidad": "Japon"
+},
+{
+  "_id": {
+    "$oid": "663eeee0ffdfdf4206071f89"
+  },
+  "equipo_id": {
+    "$oid": "663d91749d1c64583aadcac4"
+  },
+  "nombre": "Yushin Hato",
+  "username": "yuran",
+  "rol": "Jugador",
+  "nacionalidad": "Japon"
+},
+{
+  "_id": {
+    "$oid": "663eeee0ffdfdf4206071f8a"
+  },
+  "equipo_id": {
+    "$oid": "663d91749d1c64583aadcac4"
+  },
+  "nombre": "Jpuki Ushida",
+  "username": "Laz",
+  "rol": "Jugador",
+  "nacionalidad": "Japon"
+},
+{
+  "_id": {
+    "$oid": "663eeee0ffdfdf4206071f8b"
+  },
+  "equipo_id": {
+    "$oid": "663d91749d1c64583aadcac4"
+  },
+  "nombre": "Shota Watanabe",
+  "username": "SugarZ3ro",
+  "rol": "Jugador",
+  "nacionalidad": "Japon"
+},
+{
+  "_id": {
+    "$oid": "663eeee0ffdfdf4206071f8c"
+  },
+  "equipo_id": {
+    "$oid": "663d91749d1c64583aadcac4"
+  },
+  "nombre": "Sawada Yuya",
+  "username": "JUNiOR",
+  "rol": "Coach",
+  "nacionalidad": "Japon"
+},
+{
+  "_id": {
+    "$oid": "663eeee0ffdfdf4206071f8d"
+  },
+  "equipo_id": {
+    "$oid": "663d91749d1c64583aadcac4"
+  },
+  "nombre": "",
+  "username": "gya9",
+  "rol": "Analyst",
+  "nacionalidad": "Japon"
+},
+{
+  "_id": {
+    "$oid": "663eeee0ffdfdf4206071f8e"
+  },
+  "equipo_id": {
+    "$oid": "663d91749d1c64583aadcac4"
+  },
+  "nombre": "Shunsuke Ishigaki",
+  "username": "Ishigakiyama",
+  "rol": "Manager",
+  "nacionalidad": "Japon"
+},
+{
+  "_id": {
+    "$oid": "663eeee0ffdfdf4206071f8f"
+  },
+  "equipo_id": {
+    "$oid": "663d91749d1c64583aadcac4"
+  },
+  "nombre": "Maruoka Tomoaki",
+  "username": "crow",
+  "rol": "Coach",
+  "nacionalidad": "Japon"
+}]
